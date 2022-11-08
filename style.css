@@ -1,0 +1,11 @@
+h1,h2,h3,h4,h5,h6{
+    color:red;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+a:link, a:visited{
+    color:red;
+}
+
+/* bazı sayfalarda linklerin kırmızı olmaması lazım */
+/* logo sayfası ve some talk about google: press coverage sayfası yapılacak */
